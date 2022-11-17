@@ -13,7 +13,7 @@ class Factorial
 			return result;
 	}
 }
-class pro2
+class recursive-factorial
 {
 	public static void main (String args[])
 	{
